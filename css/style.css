@@ -32,6 +32,7 @@ header:after{
 	display: inline-block;
 }
 .navigation-a{
+	float: left;
 	font-size: 48px;
 	color:#FFFFFF;;
 	vertical-align: ;
